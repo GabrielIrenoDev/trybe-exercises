@@ -45,9 +45,3 @@ const customerInfo = (order) => {
 };
 
 console.log(customerInfo(order));
-
-const orderModifier = (order) => {
-  // Adicione abaixo as informações necessárias.
-};
-
-orderModifier(order);
